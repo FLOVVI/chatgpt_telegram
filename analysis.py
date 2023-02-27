@@ -1,5 +1,5 @@
 import sqlite3
-from request import get_cpu_usage
+from cpu import get_cpu_usage
 
 
 def statistic():
